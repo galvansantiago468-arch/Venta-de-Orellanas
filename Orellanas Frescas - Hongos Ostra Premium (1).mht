@@ -1,0 +1,247 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cdn.gooo.ai/artifacts/019e0de9-4ebe-7f29-8393-edc9a35d0465/index.html
+Subject: Orellanas Frescas - Hongos Ostra Premium
+Date: Sat, 9 May 2026 13:59:47 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--rV1IhCj8s1LFFGC4bxtjDPXlnbqjAKBa3OB1naSrfg----"
+
+
+------MultipartBoundary--rV1IhCj8s1LFFGC4bxtjDPXlnbqjAKBa3OB1naSrfg----
+Content-Type: text/html
+Content-ID: <frame-1E8785163E8317632B5EF1E19B18BEEB@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://cdn.gooo.ai/artifacts/019e0de9-4ebe-7f29-8393-edc9a35d0465/index.html
+
+<!DOCTYPE html><html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-95fb2d3b-d8b8-4579-b622-68a18ccec43c@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orellanas Frescas - Hongos Ostra Premium</title>
+    
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <span class="mushroom-icon">🍄</span>
+            <h1>Orellanas Frescas</h1>
+            <span class="mushroom-icon" style="animation-delay: 1s;">🍄</span>
+            <p>Hongos ostra de cultivo natural y sostenible. Frescura y calidad directo a tu mesa.</p>
+        </div>
+    </header>
+
+    <!-- Products Section -->
+    <section class="products-section">
+        <div class="container">
+            <h2 class="section-title">Nuestros Productos</h2>
+            
+            <div class="products-grid">
+                <!-- Product 1 -->
+                <div class="product-card">
+                    <div class="product-icon">🍄</div>
+                    <h3 class="product-name">Orellanas 250g</h3>
+                    <div class="product-weight">250g</div>
+                    <p class="product-description">
+                        Bandeja pequeña perfecta para una comida individual o pareja. Ideal para experimentar con recetas nuevas.
+                    </p>
+                    <button class="product-button">Consultar Precio</button>
+                </div>
+
+                <!-- Product 2 -->
+                <div class="product-card">
+                    <div class="product-icon">🍄</div>
+                    <h3 class="product-name">Orellanas 500g</h3>
+                    <div class="product-weight">500g</div>
+                    <p class="product-description">
+                        Bandeja mediana perfecta para familias. Cantidad ideal para preparar varias comidas deliciosas durante la semana.
+                    </p>
+                    <button class="product-button">Consultar Precio</button>
+                </div>
+
+                <!-- Product 3 -->
+                <div class="product-card">
+                    <div class="product-icon">🍄</div>
+                    <h3 class="product-name">Orellanas 1kg</h3>
+                    <div class="product-weight">1kg</div>
+                    <p class="product-description">
+                        Bandeja grande ideal para restaurantes o consumo semanal. Máxima frescura y mejor valor para uso profesional.
+                    </p>
+                    <button class="product-button">Consultar Precio</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section class="benefits-section">
+        <div class="container">
+            <h2 class="section-title">¿Por Qué Elegir Nuestras Orellanas?</h2>
+            
+            <div class="benefits-grid">
+                <div class="benefit-card" style="opacity: 0; transform: translateY(30px); transition: 0.6s;">
+                    <div class="benefit-icon">💪</div>
+                    <h3 class="benefit-title">Alto Valor Nutricional</h3>
+                    <p class="benefit-description">
+                        Ricas en proteínas, vitaminas B y D, minerales y antioxidantes. Bajas en calorías y grasas, perfectas para una dieta saludable.
+                    </p>
+                </div>
+
+                <div class="benefit-card" style="opacity: 0; transform: translateY(30px); transition: 0.6s;">
+                    <div class="benefit-icon">🌱</div>
+                    <h3 class="benefit-title">Cultivo Sostenible</h3>
+                    <p class="benefit-description">
+                        Producidas con métodos ecológicos y sostenibles. Cuidamos el medio ambiente mientras te ofrecemos productos de máxima calidad.
+                    </p>
+                </div>
+
+                <div class="benefit-card" style="opacity: 0; transform: translateY(30px); transition: 0.6s;">
+                    <div class="benefit-icon">👨‍🍳</div>
+                    <h3 class="benefit-title">Versatilidad Culinaria</h3>
+                    <p class="benefit-description">
+                        Perfectas para saltear, asar, guisar o añadir a sopas y arroces. Su textura y sabor complementan cualquier plato.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <h3 class="footer-title">Contáctanos</h3>
+            <p>¿Tienes preguntas o quieres hacer un pedido? Estamos aquí para ayudarte.</p>
+            
+            <div class="contact-info">
+                <div class="contact-item">
+                    <span class="contact-icon">📞</span>
+                    <span>+34 XXX XXX XXX</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">📧</span>
+                    <span>info@orellanasfrescas.com</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">📍</span>
+                    <span>Tu Ciudad, España</span>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>© 2024 Orellanas Frescas. Todos los derechos reservados.</p>
+                <p>Hongos ostra de calidad premium cultivados con amor 🍄</p>
+            </div>
+        </div>
+    </footer>
+
+    
+
+</body></html>
+------MultipartBoundary--rV1IhCj8s1LFFGC4bxtjDPXlnbqjAKBa3OB1naSrfg----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-95fb2d3b-d8b8-4579-b622-68a18ccec43c@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: rgb(51, 51, 51); background: linear-gradient(135deg, rgb(245, 247, 250) 0%, rgb(232, 245, 233) 100%); min-height: 100vh; }
+
+.container { max-width: 1200px; margin: 0px auto; padding: 0px 20px; }
+
+header { background: linear-gradient(135deg, rgb(46, 125, 50) 0%, rgb(85, 139, 47) 100%); color: white; padding: 60px 20px; text-align: center; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 20px; position: relative; overflow: hidden; }
+
+header::before { content: ""; position: absolute; inset: 0px; background: url("data:image/svg+xml,<svg width=\"100\" height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"2\" fill=\"rgba(255,255,255,0.1)\"/></svg>"); opacity: 0.3; }
+
+header h1 { font-size: 3.5em; margin-bottom: 15px; font-weight: 700; text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 4px; position: relative; z-index: 1; }
+
+header p { font-size: 1.3em; opacity: 0.95; position: relative; z-index: 1; max-width: 600px; margin: 0px auto; }
+
+.mushroom-icon { font-size: 2em; margin: 0px 10px; display: inline-block; animation: 3s ease-in-out 0s infinite normal none running float; }
+
+@keyframes float { 
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.products-section { padding: 80px 20px; }
+
+.section-title { text-align: center; font-size: 2.5em; color: rgb(46, 125, 50); margin-bottom: 50px; font-weight: 700; }
+
+.products-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; margin-bottom: 60px; }
+
+.product-card { background: white; border-radius: 20px; padding: 40px 30px; text-align: center; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px; transition: 0.4s; position: relative; overflow: hidden; }
+
+.product-card::before { content: ""; position: absolute; top: 0px; left: 0px; right: 0px; height: 5px; background: linear-gradient(90deg, rgb(46, 125, 50), rgb(85, 139, 47), rgb(104, 159, 56)); transform: scaleX(0); transition: transform 0.4s; }
+
+.product-card:hover { transform: translateY(-10px); box-shadow: rgba(0, 0, 0, 0.15) 0px 20px 40px; }
+
+.product-card:hover::before { transform: scaleX(1); }
+
+.product-icon { font-size: 5em; margin-bottom: 20px; display: inline-block; filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 4px 6px); transition: transform 0.3s; }
+
+.product-card:hover .product-icon { transform: scale(1.1) rotate(5deg); }
+
+.product-name { font-size: 1.8em; color: rgb(46, 125, 50); margin-bottom: 10px; font-weight: 700; }
+
+.product-weight { font-size: 2.5em; color: rgb(85, 139, 47); font-weight: 800; margin: 15px 0px; text-shadow: rgba(0, 0, 0, 0.05) 2px 2px 4px; }
+
+.product-description { color: rgb(102, 102, 102); margin: 20px 0px; font-size: 1.05em; line-height: 1.6; min-height: 60px; }
+
+.product-button { background: linear-gradient(135deg, rgb(46, 125, 50) 0%, rgb(85, 139, 47) 100%); color: white; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 15px 35px; font-size: 1.1em; border-radius: 50px; cursor: pointer; transition: 0.3s; font-weight: 600; box-shadow: rgba(46, 125, 50, 0.3) 0px 4px 15px; margin-top: 10px; }
+
+.product-button:hover { transform: scale(1.05); box-shadow: rgba(46, 125, 50, 0.4) 0px 6px 20px; background: linear-gradient(135deg, rgb(27, 94, 32) 0%, rgb(51, 105, 30) 100%); }
+
+.product-button:active { transform: scale(0.98); }
+
+.benefits-section { background: white; padding: 80px 20px; box-shadow: rgba(0, 0, 0, 0.05) 0px -5px 20px; }
+
+.benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 40px; margin-top: 40px; }
+
+.benefit-card { text-align: center; padding: 30px; border-radius: 15px; background: linear-gradient(135deg, rgb(241, 248, 233) 0%, rgb(232, 245, 233) 100%); transition: 0.3s; }
+
+.benefit-card:hover { transform: translateY(-5px); box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 25px; }
+
+.benefit-icon { font-size: 3.5em; margin-bottom: 15px; display: inline-block; }
+
+.benefit-title { font-size: 1.5em; color: rgb(46, 125, 50); margin-bottom: 10px; font-weight: 700; }
+
+.benefit-description { color: rgb(85, 85, 85); font-size: 1.05em; line-height: 1.6; }
+
+footer { background: linear-gradient(135deg, rgb(27, 94, 32) 0%, rgb(46, 125, 50) 100%); color: white; padding: 50px 20px; text-align: center; }
+
+.footer-content { max-width: 800px; margin: 0px auto; }
+
+.footer-title { font-size: 2em; margin-bottom: 20px; font-weight: 700; }
+
+.contact-info { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 30px; }
+
+.contact-item { display: flex; align-items: center; gap: 10px; font-size: 1.1em; }
+
+.contact-icon { font-size: 1.5em; }
+
+.footer-bottom { margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.2); opacity: 0.8; }
+
+@media (max-width: 768px) {
+  header h1 { font-size: 2.5em; }
+  header p { font-size: 1.1em; }
+  .section-title { font-size: 2em; }
+  .products-grid { grid-template-columns: 1fr; gap: 30px; }
+  .product-weight { font-size: 2em; }
+  .contact-info { flex-direction: column; gap: 15px; }
+}
+
+@keyframes fadeInUp { 
+  0% { opacity: 0; transform: translateY(30px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.product-card { animation: 0.6s ease 0s 1 normal forwards running fadeInUp; }
+
+.product-card:nth-child(1) { animation-delay: 0.1s; }
+
+.product-card:nth-child(2) { animation-delay: 0.2s; }
+
+.product-card:nth-child(3) { animation-delay: 0.3s; }
+------MultipartBoundary--rV1IhCj8s1LFFGC4bxtjDPXlnbqjAKBa3OB1naSrfg------
